@@ -1,1 +1,4 @@
+As part of my internship at CodTech, I completed Task 4: Optimization Model, which involved solving a real-world business problem using linear programming techniques in Python. 
+#output
+![Uploading Screenshot 2025-10-28 201241.png…]()
 
